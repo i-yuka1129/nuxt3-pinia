@@ -11,3 +11,6 @@
 
 12/12(火)
 - install tailwing
+
+12/13(水)
+- add pages,store,middlware
